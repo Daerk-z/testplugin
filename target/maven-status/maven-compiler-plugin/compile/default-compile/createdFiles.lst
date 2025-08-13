@@ -1,2 +1,2 @@
-com/mike/testplugin/testplugin.class
-com/mike/testplugin/tools/MessageColors.class
+tp/mike/tools/MessageColors.class
+tp/mike/TestPlugin.class

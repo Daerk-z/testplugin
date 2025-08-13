@@ -1,4 +1,4 @@
-package com.mike.testplugin.tools;
+package tp.mike.tools;
 
 import org.bukkit.ChatColor;
 
