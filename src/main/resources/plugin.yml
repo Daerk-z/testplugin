@@ -1,5 +1,6 @@
-main: com.mike.testplugin
-name: testplugin
+main: tp.mike.TestPlugin
 version: 1.0.0
-api-version: 1.21
+name: TestPlugin
 author: Mike
+api-version: 1.21
+

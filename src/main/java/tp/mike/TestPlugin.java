@@ -1,11 +1,11 @@
-package com.mike.testplugin;
+package tp.mike;
 
 import org.bukkit.Bukkit;
 import org.bukkit.plugin.java.JavaPlugin;
 
-import com.mike.testplugin.tools.MessageColors;
+import tp.mike.tools.MessageColors;
 
-public class testplugin extends JavaPlugin {
+public class TestPlugin extends JavaPlugin {
 
     public void onEnable() {
         Bukkit.getConsoleSender().sendMessage(MessageColors.coloredMessage("&aTestPlugin has been enabled."));
