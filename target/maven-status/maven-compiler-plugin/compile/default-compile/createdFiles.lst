@@ -1,2 +1,4 @@
 tp/mike/tools/MessageColors.class
 tp/mike/TestPlugin.class
+tp/mike/listeners/PlayerListener.class
+tp/mike/commands/MainCommand.class

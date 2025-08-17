@@ -1,2 +1,4 @@
-/home/daerk/Minecraft/TestPluginMike/src/main/java/tp/mike/TestPlugin.java
-/home/daerk/Minecraft/TestPluginMike/src/main/java/tp/mike/tools/MessageColors.java
+/home/mikey/minecraft/TestPlugin/src/main/java/tp/mike/tools/MessageColors.java
+/home/mikey/minecraft/TestPlugin/src/main/java/tp/mike/TestPlugin.java
+/home/mikey/minecraft/TestPlugin/src/main/java/tp/mike/commands/MainCommand.java
+/home/mikey/minecraft/TestPlugin/src/main/java/tp/mike/listeners/PlayerListener.java

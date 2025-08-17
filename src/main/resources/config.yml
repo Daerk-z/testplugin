@@ -1,0 +1,7 @@
+messages:
+  prevent_chat_swearing: "&cWhat a blyat"
+config:
+  welcome message:
+    enabled: true
+      message:
+        -"&cWelcome %player% to the server"
